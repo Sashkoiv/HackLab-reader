@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Sashkoiv\Desktop\01_HARD\HackLab-reader\Reader.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=reader-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=reader-slotholes-plated.txt|DrillLayers=gtl,gbl

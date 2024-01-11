@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+D:\01_HARD\HackLab-reader\Production_Outputs\2023-06-11_16-47\Pick Place\Pick Place for Reader.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       11-06-23
+Time:       16:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R11","RES","BottomLayer","RESC1608X55N","2.8000mm","29.3000mm","180","RESISTOR, 0603, 220R, 1%, SMD"
+"D4","DIO_LED_WS2812_5050","BottomLayer","DIO_LED_WORLDSEMI_WS2812B","2.7950mm","33.8935mm","270","RGB 5050 address"
+"C9","CAP","BottomLayer","CAPC1608X87N","21.7000mm","47.1000mm","270","X7R 10% 0603"
+"Q2","TRS_NPN_132","TopLayer","SOT23","30.4800mm","8.7630mm","90","Bipolar Transistors - BJT NPN 45V 100mA"
+"R8","RES","TopLayer","RESC1608X55N","29.7000mm","12.3000mm","270","RESISTOR, 0603, 220R, 1%, SMD"
+"R9","RES","TopLayer","RESC1608X55N","42.5000mm","13.0000mm","90","RESISTOR, 0603, 01K, 1%, SMD"
+"R7","RES","TopLayer","RESC1608X55N","40.0750mm","13.6500mm","360","RESISTOR, 0603, 220R, 1%, SMD"
+"Q1","TRS_NPN_132","TopLayer","SOT23","42.0370mm","16.6370mm","90","Bipolar Transistors - BJT NPN 45V 100mA"
+"D2","DIO","TopLayer","DO-214AC","30.0000mm","3.5000mm","270",""
+"C5","CAP_POL","TopLayer","CAPM3528x210_N","26.3000mm","47.8000mm","360","Tantalum, 10%, 3225"
+"M1","MOD_RFID_NFC_PN532","TopLayer","MOD_RFID_NFC_PN532_no3d","21.9780mm","29.9155mm","0",""
+"CN1","CN_1X3M","TopLayer","CN_Wurth_691322110003","5.9000mm","8.0000mm","270","Pluggable Terminal Blocks WR-TBL 300VAC 10A 3P Right Angle"
+"R10","RES","TopLayer","RESC1608X55N","31.3000mm","12.3000mm","270","RESISTOR, 0603, 01K, 1%, SMD"
+"R6","RES","TopLayer","RESC1608X55N","4.2000mm","25.6610mm","180","RESISTOR, 0603, 2K2, 1%, SMD"
+"R5","RES","TopLayer","RESC1608X55N","4.2000mm","28.2010mm","180","RESISTOR, 0603, 2K2, 1%, SMD"
+"R4","RES","TopLayer","RESC1608X55N","21.5000mm","48.6000mm","180","RESISTOR, 0603, 220R, 1%, SMD"
+"R3","RES","TopLayer","RESC1608X55N","36.7000mm","48.8000mm","180","RESISTOR, 0603, 220R, 1%, SMD"
+"R2","RES","TopLayer","RESC1608X55N","16.4000mm","46.6000mm","270","RESISTOR, 0603, 01K, 1%, SMD"
+"R1","RES","TopLayer","RESC1608X55N","30.6000mm","48.8000mm","360","RESISTOR, 0603, 01K, 1%, SMD"
+"CN3","CN_1X5M","TopLayer","CN_Wurth_61300511121","10.0400mm","20.5810mm","180","Headers & Wire Housings WR-PHD 2.54mm Hdr 5P Single Str Gold"
+"C8","CAP_POL","TopLayer","CAPM3528x210_N","14.8500mm","35.7250mm","360","Tantalum, 10%, 3225"
+"C7","CAP_POL","TopLayer","CAPM3528x210_N","8.8900mm","37.5920mm","180","Tantalum, 10%, 3225"
+"C4","CAP","TopLayer","CAPC1608X87N","14.8000mm","46.5000mm","90","X7R 10% 0603"
+"C3","CAP","TopLayer","CAPC1608X87N","30.6000mm","47.2000mm","360","X7R 10% 0603"
+"C2","CAP","TopLayer","CAPC1608X87N","36.6000mm","47.2000mm","180","X7R 10% 0603"
+"C1","CAP","TopLayer","CAPC1608X87N","36.6000mm","45.6000mm","180","X7R 10% 0603"
+"BZ1","MSC_MULTICOMP_MCKPM-G1212A-K4045","TopLayer","MSC_MULTICOMP_MCKPM-G1212A-K4045","38.7500mm","6.2500mm","360",""
+"U1","MSC_ESP32-WROOM-32D","TopLayer","MSC_ESP32-WROOM-32D","28.5100mm","30.8400mm","270","Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz Integrated, Trace Surface Mount"
+"D1","MSC_5pin_Relay","TopLayer","MSC_SRD-12VDC-SL-C","18.8500mm","8.0000mm","360",""
+"CN2","CN_USB_Type_B_PCB","TopLayer","CN_UUSB","2.4125mm","42.0000mm","360",""
+"C10","CAP","BottomLayer","CAPC1608X87N","2.8000mm","38.5000mm","180","X7R 10% 0603"
+"C11","CAP","BottomLayer","CAPC1608X87N","42.3000mm","11.4000mm","360","X7R 10% 0603"
+"C12","CAP","BottomLayer","CAPC1608X87N","28.1000mm","3.1000mm","90","X7R 10% 0603"
+"C13","CAP_POL","TopLayer","CAPM3528x210_N","4.0000mm","32.0000mm","90","Tantalum, 10%, 3225"
+"C14","CAP","TopLayer","CAPC1608X87N","27.3000mm","45.2000mm","180","X7R 10% 0603"
+"D5","DIO_LED_WS2812_5050","BottomLayer","DIO_LED_WORLDSEMI_WS2812B","26.2515mm","47.2490mm","180","RGB 5050 address"
+"D6","DIO_LED_WS2812_5050","BottomLayer","DIO_LED_WORLDSEMI_WS2812B","42.2000mm","15.9650mm","90","RGB 5050 address"
+"D7","DIO_LED_WS2812_5050","BottomLayer","DIO_LED_WORLDSEMI_WS2812B","18.7000mm","2.6500mm","360","RGB 5050 address"
+"CN4","CN_1X2M","TopLayer","CN_WURTH_61300211121","33.6000mm","47.2580mm","90","2 pin male pin header, pitch 2.54mm"
+"CN5","CN_1X2M","TopLayer","CN_WURTH_61300211121","18.6900mm","47.2580mm","90","2 pin male pin header, pitch 2.54mm"
+"U2","IC_TI_LM1117","TopLayer","SOT230P730X180-4N","13.3350mm","28.9560mm","270","IC, LDO VOLT REG, 3V3, 0.8A, SOT-223-4"
